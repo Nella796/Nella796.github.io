@@ -3,6 +3,7 @@ title: "Ames Housing Linear Regression"
 date: 2020-10-18
 tags: [machine learning, data science, linear regression]
 header:
+  image: "/images/perceptron/percept.jpg"
 excerpt: "machine learning, data science, linear regression"
 mathjax: "true"
 ---
