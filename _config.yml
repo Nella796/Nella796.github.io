@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Allen Jackson"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Allen_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Portfolio"
   location         : "Deltona, Florida"
   email            :
