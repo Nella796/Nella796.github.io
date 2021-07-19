@@ -293,8 +293,7 @@ plot_roc_curve(lr3, X_test2, y_test)
 
 
 
-
-![png](output_31_2.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/predicting_attrition/output_31_2.png.png" alt="linearly separable data">
 
 
 
@@ -331,8 +330,7 @@ plt.xticks(rotation = 90)
 
 
 
-
-![png](output_34_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/predicting_attrition/output_34_1.png" alt="linearly separable data">
 
 
 
@@ -361,8 +359,7 @@ plt.xticks(rotation = 90)
 
 
 
-
-![png](output_35_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/predicting_attrition/output_35_1.png" alt="linearly separable data">
 
 
 ## Conclusion
