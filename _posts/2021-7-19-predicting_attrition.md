@@ -3,7 +3,7 @@ title: "Predicting Attrition"
 date: 2021-07-19
 tags: [classification, data science, machine learning]
 header:
-excerpt: "Created functions to run varying linear regressions on housing data"
+excerpt: "Used various classification models to predict employee attrition"
 mathjax: "true"
 ---
 
