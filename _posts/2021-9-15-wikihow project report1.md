@@ -1,9 +1,9 @@
 ---
 title: "Wikihow Text Summarization"
 date: 2021-09-15
-tags: [classification, data science, machine learning]
+tags: [Natural Language Processing, Deep Learning, Recurrent Neural Networks, Data Science, Machine Learning]
 header:
-excerpt: "Used various classification models to predict employee attrition"
+excerpt: "Created and trained a text summarization model using Reccurent Neural Networks"
 mathjax: "true"
 ---
 
