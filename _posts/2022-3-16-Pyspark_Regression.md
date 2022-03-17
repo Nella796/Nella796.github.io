@@ -1955,7 +1955,7 @@ ticks = plot.set_xticklabels(plot.get_xticklabels(),rotation = 90)
 ```
 
 
-![png](output_68_0.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/CreditCard/feature_importance.png" alt="linearly separable data">
 
 
 
